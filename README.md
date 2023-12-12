@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OGITHEMAN
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning C++ and HTML + CSS.
